@@ -1,8 +1,8 @@
-## Challenge09-Node.js
+## Challenge09-NodeJS
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
-    Challenge09-Node.js
+    Challenge09-NodeJS
 ## Description
-    this is my description of the project
+    this is the description of the project
 ## Installation
     these are the installation instructions
 ## Table of Contents
@@ -12,13 +12,13 @@
     * [Tests](#tests)
     * [License](#license)
     * [GitHub](#github)
-    * [Email](#email)
+    * [Questions](#questions)
 ## Usage
     Generate a README file
 ## Contributing
-    smile while writing code this is so cool!
+    smile while writing code this is fun!
 ## Tests
-    Here are the test instructions
+    these are the test instructions
 ## License
     This project is licensed under the MIT license.
     [MIT License](https://opensource.org/licenses/MIT)
